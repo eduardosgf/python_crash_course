@@ -9,3 +9,4 @@ print(16 / 2)
 favorite_number = 8
 print(f"My number favorite is {favorite_number}")
 
+ 
